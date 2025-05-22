@@ -1,0 +1,18 @@
+{
+    "name": "city-insight",
+    "version": "1.0.0",
+    "description": "選んだ都市の天気・為替レート・ニュース・人気スポットを一画面で表示する、軽量な観光ポータルサイトです。   This is a simple tourism dashboard that shows weather, exchange rates, news, and local highlights for selected cities.",
+    "main": "index.js",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "sass": "^1.89.0",
+        "vite": "^6.3.5"
+    }
+}
